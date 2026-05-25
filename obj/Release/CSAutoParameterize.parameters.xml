@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MedMinderDB-Web.config Connection String" description="MedMinderDB Connection String used in web.config by the application to access the database." defaultValue="Server=SQL1002.site4now.net;Database=db_ac9653_prod1234;User Id=db_ac9653_prod1234_admin;Password=Prod@1234;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\SIMS\\SEM\ 2\\Practical\\AWT\\MedMinder\\MedMinder\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MedMinderDB']/@connectionString" />
+  </parameter>
+</parameters>
